@@ -3,3 +3,4 @@ C:\Users\Vikas Rathee\Documents\GitHub\FileReader\FileReader\bin\Debug\FileReade
 C:\Users\Vikas Rathee\Documents\GitHub\FileReader\FileReader\bin\Debug\FileReader.pdb
 C:\Users\Vikas Rathee\Documents\GitHub\FileReader\FileReader\obj\Debug\FileReader.exe
 C:\Users\Vikas Rathee\Documents\GitHub\FileReader\FileReader\obj\Debug\FileReader.pdb
+C:\Users\Vikas Rathee\Documents\GitHub\FileReader\FileReader\obj\Debug\FileReader.csprojResolveAssemblyReference.cache
